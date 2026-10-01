@@ -1,10 +1,22 @@
 {
   "characters": [
     {
-      "id": "bruh",
-      "name": "Bruh Button",
-      "imageUrl": "https://example.com/bruh_image.png",
-      "audioUrl": "https://www.myinstants.com/media/sounds/bruh.mp3"
+      "id": "doge",
+      "name": "JHON CENA",
+      "imageUrl": "https://vignette.wikia.nocookie.net/15024d98-02ae-40a0-876e-04e7abbac87c/scale-to-width-down/120",
+      "audioUrl": "https://www.myinstants.com/media/sounds/jhon-cena_aS0WZM2.mp3"
+    },
+    {
+      "id": "Bruh Button",
+      "name": "BING CHILLING",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2023/07/07/fef3ba07-78ab-4b6f-98bd-c4281caa0fa4_2b7d0fc3.jpg?itok=zEyMbmm9&v=1688725357",
+      "audioUrl": "https://www.myinstants.com/media/sounds/bing-chilling-rap.mp3"
+    },
+    {
+      "id": "doge",
+      "name": "Doge",
+      "imageUrl": "https://example.com/doge_image.png",
+      "audioUrl": "https://www.myinstants.com/media/sounds/wow.mp3"
     },
     {
       "id": "doge",
