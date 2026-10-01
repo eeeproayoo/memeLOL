@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {
+      "id": "bruh",
+      "name": "Bruh Button",
+      "imageUrl": "https://example.com/bruh_image.png",
+      "audioUrl": "https://www.myinstants.com/media/sounds/bruh.mp3"
+    },
+    {
+      "id": "doge",
+      "name": "Doge",
+      "imageUrl": "https://example.com/doge_image.png",
+      "audioUrl": "https://www.myinstants.com/media/sounds/wow.mp3"
+    }
+  ]
+}
